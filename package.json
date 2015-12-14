@@ -15,11 +15,13 @@
     "express": "4.10.6",
     "jade": "1.8.2",
     "jenkins-api": "0.2.6",
+    "lodash": "^3.10.1",
     "moment": "2.8.4",
     "morgan": "1.5.0",
     "request": "2.51.0",
     "serve-favicon": "2.2.0",
-    "socket.io": "1.2.1"
+    "socket.io": "1.2.1",
+    "xml2js": "^0.4.15"
   },
   "devDependencies": {
     "grunt": "0.4.5",

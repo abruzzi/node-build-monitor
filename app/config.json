@@ -6,15 +6,9 @@
   },
   "services": [
     {
-      "name": "Travis",
+      "name": "GoCD",
       "configuration": {
-        "slug": "marcells/bloggy"
-      }
-    },
-    {
-      "name": "Travis",
-      "configuration": {
-        "slug": "marcells/node-build-monitor"
+        "url": "10.202.128.5:8153"
       }
     }
   ]
